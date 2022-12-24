@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT](https://te.legra.ph/file/9d717a0226c97c3c7059c.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
 
 
 <h1 align="center">
@@ -30,8 +30,8 @@
 ------
 
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBot_OP)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/LegendBot_AI)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/StylishXbotsupport)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Stylishxbotsupport)
 
 ------
 
